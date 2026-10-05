@@ -1,10 +1,10 @@
-# Kiki Bouba Field
+# WordsWorld
 
-![Kiki Bouba Field](media/kiki-bouba-field.gif)
+![WordsWorld](media/kiki-bouba-field.gif)
 
 An emergent, first-person point-cloud environment. Typed words become space. Sharp (kiki) words pull teal points into solid planes that join at 90° or 45°; soft (bouba) words carve openings through them. Word length sets size and thickness. A pale stream threads every walkable opening.
 
-Open `public/index.html` in a browser, or visit the GitLab Pages site once the pipeline has run.
+Play it at https://arisabre.github.io/WordsWorld/ (or open `index.html` in a browser).
 
 ## Controls
 
